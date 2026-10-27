@@ -1,0 +1,13 @@
+torch>=2.4
+torchvision>=0.19
+numpy==2.2.6
+Pillow>=10
+PyYAML>=6
+easydict>=1.13
+ftfy>=6
+regex
+tqdm
+prettytable
+tensorboard
+matplotlib>=3.8
+

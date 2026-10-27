@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+logs/
+runs/
+experiments/
+output/
+data/*
+!data/bpe_simple_vocab_16e6.txt.gz
+
